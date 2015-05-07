@@ -1,0 +1,6 @@
+name: NoDiamonds
+main: Sean_M\NoDiamonds\Main
+version: "1.0.0"
+api: [1.0.0]
+description: Kicks AA12 upon diamond interaction.
+author: Sean_M
