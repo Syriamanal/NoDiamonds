@@ -14,7 +14,7 @@ class Main extends PluginBase implements Listener{
   public function itemHeld(PlayerItemHeldEvent $event){
     $p = $event->getPlayer();
     if($p->getName() == "AA12" and $event->getItem()->getId() == 264){
-       $p->kick("Haha!");
+       $p->kick("Haha! No Diamonds For You!");
     }
   }
 }
